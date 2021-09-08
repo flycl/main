@@ -2,7 +2,6 @@ const koa = require('koa');
 
 const app = new koa();
 
-
 function main(params) {
 console.log('main');
 }
